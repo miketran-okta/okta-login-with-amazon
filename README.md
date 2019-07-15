@@ -39,5 +39,7 @@ Access the following link with Idp ID
 
 https://dev-123456.oktapreview.com/sso/idps/[Idp_ID]
 
+A special thanks to <a href="https://www.linkedin.com/in/aarishg/">Aarish Grover</a> who helped pull together the configurations
+
 
 
